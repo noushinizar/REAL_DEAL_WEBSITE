@@ -156,7 +156,8 @@ u{
 .image1{
     height: 90%;
     width: 50%;
-    background-image: url(/assets/call_files/bim1.png);
+    background-image: url(/assets/call_files/waves.svg);
+    background-color: rgb(12, 12, 41);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
